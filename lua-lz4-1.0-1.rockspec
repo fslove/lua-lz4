@@ -1,7 +1,7 @@
 package = "lua-lz4"
-  version = "1.0-1"
+  version = "1.1-2"
   source = {
-    url = "git://github.com/witchu/lua-lz4"
+    url = "git://github.com/fslove/lua-lz4"
   }
   description = {
     summary = "LZ4 fast compression algorithm binding for Lua.",
